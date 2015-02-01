@@ -2,6 +2,6 @@
 =========================
 it's a test repository
 hello world
-:new hi:
+new hi
 haha :pizza:
 ========================
